@@ -1,0 +1,31 @@
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Application.deps.json
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Application.pdb
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Domain.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Domain.pdb
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.csproj.AssemblyReference.cache
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.AssemblyInfoInputs.cache
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.AssemblyInfo.cs
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAg.52B6D08E.Up2Date
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\refint\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.pdb
+C:\Users\UserGPC\OneDrive\Desktop\C# Projects\SchoolAgend.Application\obj\Debug\net9.0\ref\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Application.deps.json
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Application.pdb
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Domain.dll
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\bin\Debug\net9.0\SchoolAgend.Domain.pdb
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.csproj.AssemblyReference.cache
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.AssemblyInfoInputs.cache
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.AssemblyInfo.cs
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.sourcelink.json
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAg.52B6D08E.Up2Date
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\refint\SchoolAgend.Application.dll
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\SchoolAgend.Application.pdb
+C:\Users\UserGPC\OneDrive\Desktop\SchoolAgendApp2\SchoolAgendApp\SchoolAgendApp\SchoolAgend.Application\obj\Debug\net9.0\ref\SchoolAgend.Application.dll

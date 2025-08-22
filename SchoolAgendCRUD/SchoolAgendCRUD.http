@@ -1,0 +1,6 @@
+@SchoolAgendCRUD_HostAddress = http://localhost:5119
+
+GET {{SchoolAgendCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

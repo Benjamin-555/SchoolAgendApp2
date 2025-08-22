@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Agenda Escolar</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Schedule generator🧩</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link active" href="#" onclick="showSection('courses')">Cursos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('tasks')">Tareas</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('reminders')">Recordatorios</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('sessions')">Sesiones</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('agenda')">Agenda</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+
+        <section id="courses-section" class="section">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h2>Cursos</h2>
+                <button class="btn btn-success" onclick="showCourseForm()">Nuevo Curso</button>
+            </div>
+            <div id="courses-cards" class="row g-3"></div>
+        </section>
+
+        <section id="tasks-section" class="section" style="display:none;">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h2>Tareas</h2>
+                <button class="btn btn-success" onclick="showTaskForm()">Nueva Tarea</button>
+            </div>
+            <div id="tasks-cards" class="row g-3"></div>
+        </section>
+
+        <section id="reminders-section" class="section" style="display:none;">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h2>Recordatorios</h2>
+                <button class="btn btn-success" onclick="showReminderForm()">Nuevo Recordatorio</button>
+            </div>
+            <div id="reminders-cards" class="row g-3"></div>
+        </section>
+
+        <section id="sessions-section" class="section" style="display:none;">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h2>Sesiones</h2>
+                <button class="btn btn-success" onclick="showSessionForm()">Nueva Sesión</button>
+            </div>
+            <div id="sessions-cards" class="row g-3"></div>
+        </section>
+
+        <section id="agenda-section" class="section" style="display:none;">
+            <h2 class="mb-3">Agenda Semanal</h2>
+            <div class="row" id="agenda-container">
+                <div class="col-md-1" id="day-Sunday">
+                    <h5>Domingo</h5>
+                </div>
+                <div class="col-md-1" id="day-Monday">
+                    <h5>Lunes</h5>
+                </div>
+                <div class="col-md-1" id="day-Tuesday">
+                    <h5>Martes</h5>
+                </div>
+                <div class="col-md-1" id="day-Wednesday">
+                    <h5>Miércoles</h5>
+                </div>
+                <div class="col-md-1" id="day-Thursday">
+                    <h5>Jueves</h5>
+                </div>
+                <div class="col-md-1" id="day-Friday">
+                    <h5>Viernes</h5>
+                </div>
+                <div class="col-md-1" id="day-Saturday">
+                    <h5>Sábado</h5>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <div class="modal fade" id="formModal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="form-title"></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          </div>
+          <div class="modal-body">
+            <form id="dynamic-form"></form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
