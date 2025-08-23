@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F052F55-9613-4F44-B1E2-6C3FF8C616C1}|..\\SchoolAgend.Application\\SchoolAgend.Application.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.application\\contracts\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F052F55-9613-4F44-B1E2-6C3FF8C616C1}|..\\SchoolAgend.Application\\SchoolAgend.Application.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.application\\contracts\\itaskirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\taski.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3920EF1A-428D-47F0-9A1B-B31F2D01FEAB}|..\\SchoolAgend.Infrastructure\\SchoolAgend.Infrastructure.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.infrastructure\\data\\repositories\\taskirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,20 +47,11 @@
       "AbsoluteMoniker": "D:0:0:{3F052F55-9613-4F44-B1E2-6C3FF8C616C1}|..\\SchoolAgend.Application\\SchoolAgend.Application.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.application\\contracts\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\taski.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4F12226-2A7A-45E1-A1D8-92AC2FC8564F}|SchoolAgendCRUD.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagendcrud\\controllers\\tasksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F12226-2A7A-45E1-A1D8-92AC2FC8564F}|SchoolAgendCRUD.csproj|solutionrelative:controllers\\tasksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3F41DE0-B815-4D44-BD2A-9A6B4BAD39A3}|..\\SchoolAgend.Domain\\SchoolAgend.Domain.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F052F55-9613-4F44-B1E2-6C3FF8C616C1}|..\\SchoolAgend.Application\\SchoolAgend.Application.csproj|c:\\users\\usergpc\\onedrive\\desktop\\schoolagendapp2\\schoolagendapp\\schoolagendapp\\schoolagend.application\\services\\sessionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -98,37 +104,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\Contracts\\ISessionRepository.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ISessionRepository.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\Contracts\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:52:05.552Z",
+              "WhenOpened": "2025-08-23T00:02:08.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SessionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Title": "ITaskIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ITaskIRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\Contracts\\ITaskIRepository.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ITaskIRepository.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\Contracts\\ITaskIRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:04:05.097Z",
+              "WhenOpened": "2025-08-23T00:02:07.775Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\CourseRepository.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\CourseRepository.cs",
@@ -136,12 +146,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\CourseRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:57:11.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T03:57:11.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "RemindersController.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\RemindersController.cs",
               "RelativeDocumentMoniker": "Controllers\\RemindersController.cs",
@@ -149,12 +158,11 @@
               "RelativeToolTip": "Controllers\\RemindersController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAuwDUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:34:26.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T05:34:26.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ReminderRepository.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\ReminderRepository.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\ReminderRepository.cs",
@@ -162,38 +170,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\ReminderRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wCEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:18:28.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T05:18:28.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskIRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T01:07:07.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateSessionDto.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:56.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Domain\\Entities\\Course.cs",
@@ -206,124 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SchoolAgendCRUDDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T02:50:44.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskI.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\TaskI.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Domain\\Entities\\TaskI.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\TaskI.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Domain\\Entities\\TaskI.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:17:18.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateSessionDto.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:52.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T02:32:08.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TasksIController.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\TasksIController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TasksIController.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\TasksIController.cs",
-              "RelativeToolTip": "Controllers\\TasksIController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:34:31.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateTaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:45.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Reminder.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\Reminder.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Domain\\Entities\\Reminder.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\Reminder.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Domain\\Entities\\Reminder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:16:37.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SessionDto.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:54.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SessionServices.cs",
-              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Services\\SessionServices.cs",
-              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\Services\\SessionServices.cs",
-              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Services\\SessionServices.cs",
-              "RelativeToolTip": "..\\SchoolAgend.Application\\Services\\SessionServices.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:49:09.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Session.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\Session.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Domain\\Entities\\Session.cs",
@@ -336,7 +200,165 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskI.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\TaskI.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Domain\\Entities\\TaskI.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\TaskI.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Domain\\Entities\\TaskI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:17:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\SessionRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:04:05.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:52:05.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\Repositories\\TaskIRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:07:07.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateSessionDto.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\UpdateSessionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:48:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SchoolAgendCRUDDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\Data\\SchoolAgendCRUDDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:50:44.176Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "CreateSessionDto.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\CreateSessionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:48:52.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\Contracts\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:32:08.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TasksIController.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\TasksIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksIController.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\TasksIController.cs",
+              "RelativeToolTip": "Controllers\\TasksIController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:34:31.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:48:45.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\Reminder.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Domain\\Entities\\Reminder.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Domain\\Entities\\Reminder.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Domain\\Entities\\Reminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:16:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SessionDto.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\SessionDto\\SessionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:48:54.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionServices.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Services\\SessionServices.cs",
+              "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\Services\\SessionServices.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\Services\\SessionServices.cs",
+              "RelativeToolTip": "..\\SchoolAgend.Application\\Services\\SessionServices.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:49:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "TaskDto - Copy.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\TaskDto\\TaskDto - Copy.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\TaskDto - Copy.cs",
@@ -344,12 +366,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\TaskDto - Copy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:46.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:48:46.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "UpdateTaskDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\TaskDto\\UpdateTaskDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\UpdateTaskDto.cs",
@@ -357,12 +378,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\TaskDto\\UpdateTaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:48.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:48:48.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "SessionsController.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgendCRUD\\Controllers\\SessionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SessionsController.cs",
@@ -370,25 +390,23 @@
               "RelativeToolTip": "Controllers\\SessionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:34:28.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T05:34:28.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SchoolAgend.Infrastructure",
+              "DocumentIndex": 22,
+              "Title": "SchoolAgend.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\SchoolAgend.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Infrastructure\\SchoolAgend.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Infrastructure\\SchoolAgend.Infrastructure.csproj",
               "RelativeToolTip": "..\\SchoolAgend.Infrastructure\\SchoolAgend.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T05:34:52.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T05:34:52.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "CreateCourseDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\CourseDto\\CreateCourseDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\CourseDto\\CreateCourseDto.cs",
@@ -396,12 +414,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\CourseDto\\CreateCourseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:35.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:48:35.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "UpdateCourseDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\CourseDto\\UpdateCourseDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\CourseDto\\UpdateCourseDto.cs",
@@ -409,12 +426,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\CourseDto\\UpdateCourseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:38.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:48:38.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ReminderDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\ReminderDto\\ReminderDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\ReminderDto\\ReminderDto.cs",
@@ -422,12 +438,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\ReminderDto\\ReminderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:49:01.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:49:01.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "CourseDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\CourseDto\\CourseDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\CourseDto\\CourseDto.cs",
@@ -435,12 +450,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\CourseDto\\CourseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:48:34.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:48:34.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "CreateReminderDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\ReminderDto\\CreateReminderDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\ReminderDto\\CreateReminderDto.cs",
@@ -448,12 +462,11 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\ReminderDto\\CreateReminderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:49:00.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:49:00.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "UpdateReminderDto.cs",
               "DocumentMoniker": "C:\\Users\\UserGPC\\OneDrive\\Desktop\\SchoolAgendApp2\\SchoolAgendApp\\SchoolAgendApp\\SchoolAgend.Application\\DTOs\\ReminderDto\\UpdateReminderDto.cs",
               "RelativeDocumentMoniker": "..\\SchoolAgend.Application\\DTOs\\ReminderDto\\UpdateReminderDto.cs",
@@ -461,8 +474,7 @@
               "RelativeToolTip": "..\\SchoolAgend.Application\\DTOs\\ReminderDto\\UpdateReminderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T04:49:02.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T04:49:02.891Z"
             }
           ]
         }
